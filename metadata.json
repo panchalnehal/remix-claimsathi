@@ -1,0 +1,8 @@
+{
+  "name": "Remix ClaimSaathi",
+  "description": "Smart Health Insurance Claim Assistant and Document Checklist for Hassle-Free Reimbursements",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
